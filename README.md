@@ -7,4 +7,4 @@ Hey! What's up, guys! Here's the Google Colaboratory notebook that will, hopeful
 
 You can contact me here: https://twitter.com/Ivangrov 
 
-Hope you enjoy and get some value out of it!
+Hope you enjoy and get some value out of it! 
